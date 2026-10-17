@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-label="#ChooseHappiness">
+<title>#ChooseHappiness</title>
+<defs>
+<radialGradient id="sky" cx="50%" cy="40%" r="70%"><stop offset="0" stop-color="#ffe9a8"/><stop offset=".22" stop-color="#ffc35a"/><stop offset=".55" stop-color="#ff9a3c"/><stop offset="1" stop-color="#f06a2a"/></radialGradient>
+<radialGradient id="sun" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fffef6"/><stop offset=".55" stop-color="#fff6d0"/><stop offset=".8" stop-color="#ffe08a" stop-opacity=".85"/><stop offset="1" stop-color="#ffc95a" stop-opacity="0"/></radialGradient>
+<linearGradient id="cloud" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb35e"/><stop offset="1" stop-color="#e3622b"/></linearGradient>
+<clipPath id="c"><circle cx="500" cy="500" r="470"/></clipPath>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#8a2d0b" flood-opacity=".45"/></filter></defs>
+<circle cx="500" cy="500" r="490" fill="#fbf8f1"/>
+<g clip-path="url(#c)">
+<rect width="1000" height="1000" fill="url(#sky)"/>
+<circle cx="500" cy="380" r="240" fill="url(#sun)"/>
+<circle cx="500" cy="380" r="120" fill="#fffef8"/>
+<path d="M0 560 C80 520 150 540 210 515 C280 490 330 530 400 505 C470 480 520 520 600 500 C680 480 740 520 820 498 C890 480 950 510 1000 495 V1000 H0Z" fill="url(#cloud)" opacity=".75"/>
+<path d="M0 640 C100 600 190 630 280 600 C370 572 440 615 540 590 C640 566 720 610 820 585 C900 566 960 590 1000 580 V1000 H0Z" fill="#e05a26" opacity=".7"/>
+<path d="M0 730 C120 700 230 725 340 700 C460 674 560 715 680 690 C800 668 900 700 1000 685 V1000 H0Z" fill="#c9481d" opacity=".75"/>
+</g>
+<circle cx="500" cy="500" r="470" fill="none" stroke="#fbf8f1" stroke-width="14"/>
+</svg>
