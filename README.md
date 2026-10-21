@@ -157,6 +157,14 @@ Without the first two, the site shows "This site isn't connected yet" instead of
 
 ## 7. Deploy
 
+**GitHub Pages (e.g. https://junearness.github.io/ChooseHappiness/):** GitHub Pages can't run the source code directly. A blank page means it's serving the unbuilt files. The included workflow `.github/workflows/deploy.yml` builds the site for you on every push:
+1. Repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+2. Push (or upload) the project, including the `.github/workflows/deploy.yml` file.
+3. Open the **Actions** tab and wait for "Deploy to GitHub Pages" to turn green (about 2 minutes), then open your Pages address.
+4. Until you add the secrets `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` (Settings → Secrets and variables → Actions), it publishes **preview mode**. After you add them, re-run the workflow and it publishes the live site. In Supabase, add `https://junearness.github.io/ChooseHappiness/signin` and `.../reset-password` as redirect URLs.
+
+The workflow builds for the repo's folder automatically (`VITE_BASE=/<repo-name>/`) and adds a `404.html` so links like `/journal` load correctly. GitHub Pages ignores the security headers in `_headers`; use Netlify or Cloudflare if you want them.
+
 **Netlify:** New site → import the GitHub repo → build command `npm run build`, publish directory `dist` (already in `netlify.toml`) → add the environment variables → deploy → add your custom domain (HTTPS is automatic).
 
 **Cloudflare Pages:** Create project → connect repo → build `npm run build`, output `dist` → add the environment variables. `public/_redirects` and `public/_headers` are included.

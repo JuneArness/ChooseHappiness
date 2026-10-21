@@ -1,0 +1,842 @@
+{
+  "articles": [
+    {
+      "slug": "reframing",
+      "topic": "reframing",
+      "title": "Reframing: Seeing the Same Situation More Than One Way",
+      "summary": "Reframing means looking at a situation from another reasonable angle. It can shift how you feel, but it is a tool, not a cure and not a way to excuse harm.",
+      "body": "## What reframing is\n\nReframing (researchers often call it cognitive reappraisal) means deliberately looking at a situation from a different angle so that its meaning to you changes. The facts stay the same. What changes is the story you tell about them, and often the feelings that come with that story.\n\nReframing is not pretending. It is not \"just look on the bright side,\" and it is not telling yourself that something painful does not hurt. It is asking a simple question: \"Is there another reasonable way to read this?\" and giving that option a fair hearing next to your first reading.\n\n## What the research says\n\nA large meta-analysis by Webb, Miles and Sheeran (2012) pooled 306 experimental comparisons of emotion regulation strategies. Overall, changing how you think about a situation (called cognitive change) had a small-to-medium average effect on emotional outcomes (d+ = 0.36). Re-thinking the situation itself worked a bit better (0.36) than trying to re-think your own emotional reaction (0.23). Taking another person's perspective looked especially helpful (0.45).\n\nThose are averages across many mostly experimental studies. They do not guarantee that reframing will work for you, on this problem, today.\n\nAnother study, by Jamieson and colleagues (2010), looked at students preparing for a graduate exam. Students who were taught that the jittery, racing feeling in their body can help performance did better on the math section than a comparison group. It is a single study in a specific setting, but it shows how the meaning we give a physical sensation can matter.\n\n## Example (fictional): The quiet meeting\n\nMaya presents a project and her manager says almost nothing afterward. Her first interpretation is, \"She hated it. I'm going to be in trouble.\" Her chest tightens and she spends the evening rehearsing worst cases.\n\nLater she tries a reframe. She asks herself, \"What else could a quiet reaction mean?\" She writes down a few possibilities: her manager was thinking, was rushing to another meeting, or was saving feedback for a one-on-one. None of these is guaranteed. But the list makes her first story feel like one option among several, and she decides to request ten minutes for feedback instead of guessing.\n\n## A simple way to try it\n\n1. **Notice the first interpretation.** Write it as a sentence: \"This means that ...\"\n2. **Ask three questions.** What else could this mean? What would I say to a friend in this spot? What might I be leaving out?\n3. **Choose a version that is believable and useful.** If a new story feels fake, it will not help. A good reframe is one you can actually accept, even if it is only a little more balanced.\n4. **Take one small action** that fits the new view, like asking a question or taking a break.\n\n## When reframing is the wrong tool\n\nSome situations are genuinely unfair, unsafe, or harmful. In those cases the right move may be to set a boundary, change the situation, or ask for help, not to reinterpret it. You are never at fault for failing to \"think your way out\" of circumstances you did not choose.\n\nReframing is also not a treatment for depression, anxiety, or other mental health conditions. Structured approaches such as cognitive behavioral therapy include learning to examine thoughts, and a large review of meta-analyses found strong support for CBT for several conditions. But doing that work with a trained clinician is different from trying reframes alone on a bad day. If your thoughts feel stuck, relentless, or frightening, that is a good reason to talk with someone qualified.\n",
+      "takeaways": [
+        "Reframing means finding another reasonable reading of a situation, not denying your feelings.",
+        "Research suggests changing how you think about a situation has a small-to-medium average effect on emotions, which is helpful but not magic.",
+        "A good reframe is believable to you and leads to a small, useful action.",
+        "If a situation is unfair or unsafe, change the situation or get support instead of reinterpreting it."
+      ],
+      "prompts": [
+        "Think of a recent moment that stung. What was your first interpretation of it?",
+        "What are two other reasonable explanations you could not rule out?",
+        "What would you say to a friend who told you the same story?"
+      ],
+      "exercise": "",
+      "sensitive": false,
+      "content_note": "",
+      "professional_note": "If persistent negative thinking is affecting your sleep, work, relationships, or safety, consider talking with a licensed mental health professional. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation (Webb, Miles & Sheeran)",
+          "publisher": "Psychological Bulletin, American Psychological Association",
+          "year": 2012,
+          "url": "https://sussex.figshare.com/articles/journal_contribution/Dealing_with_feeling_a_meta-analysis_of_the_effectiveness_of_strategies_derived_from_the_process_model_of_emotion_regulation/23396432"
+        },
+        {
+          "title": "Turning the knots in your stomach into bows: Reappraising arousal improves performance on the GRE (Jamieson, Mendes, Blackstock & Schmader)",
+          "publisher": "Journal of Experimental Social Psychology",
+          "year": 2010,
+          "url": "https://dash.harvard.edu/handle/1/4214916"
+        },
+        {
+          "title": "The efficacy of cognitive behavioral therapy: A review of meta-analyses (Hofmann, Asnaani, Vonk, Sawyer & Fang)",
+          "publisher": "Cognitive Therapy and Research (via PubMed Central, NIH)",
+          "year": 2012,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3584580"
+        }
+      ],
+      "evidence_note": "Research findings: meta-analytic evidence shows a small-to-medium average effect of cognitive change on emotion, and a single experiment linked reappraising arousal to exam performance. Limits: averages do not predict individual results, and most studies are short-term experiments; #ChooseHappiness uses reframing as an education tool, not a treatment.",
+      "related": [
+        "facts-vs-assumptions",
+        "control",
+        "decisions"
+      ],
+      "pillar": "perspective",
+      "kind": "article",
+      "reading_minutes": 3
+    },
+    {
+      "slug": "facts-vs-assumptions",
+      "topic": "facts-vs-assumptions",
+      "title": "Facts vs. Assumptions: Separating What Happened From What You Added",
+      "summary": "Our minds fill in gaps fast and then treat the fill-in as fact. Learning to sort what you know from what you are guessing can lower the heat on a lot of everyday stress.",
+      "body": "## The mind loves a complete story\n\nWhen something happens, your mind rarely waits for all the information. It fills gaps using past experience, current mood, and fears. That is normal and often useful. The trouble starts when a guess feels so natural that we treat it as a fact.\n\nA text goes unanswered. A friend seems distant. A coworker's email sounds short. Each moment can quietly turn into a conclusion: \"They're upset with me.\" \"I'm being left out.\" \"I'm in trouble.\"\n\n## The camera test\n\nOne way to sort facts from assumptions is the camera test: would a video camera have recorded it?\n\n- **Fact:** \"I sent a message at 2 p.m. and had no reply by 6 p.m.\"\n- **Assumption:** \"She is ignoring me because she is mad.\"\n\nFacts are things you can observe or verify. Interpretations, predictions, and mind reading (\"he thinks I'm lazy\") are assumptions, even when they feel certain. Feelings are real and worth respecting, but a strong feeling is not the same as proof of what another person intends.\n\n## Example (fictional): The unanswered text\n\nDev texts a friend about weekend plans and hears nothing all evening. His mind produces a story: \"She's still annoyed about last month. I always mess things up.\"\n\nHe pauses and writes two columns.\n\n*What I know:* I sent a text at 2 p.m. No reply by 8 p.m. She sometimes takes a day to respond.\n\n*What I am adding:* She is annoyed. It is about last month. It is my fault.\n\nSeeing them side by side, Dev notices that his \"what I know\" column is short and his \"what I'm adding\" column is long. He sends a light follow-up the next morning instead of a long apology. She replies that she had a rough day at work and her phone died. The story he told himself was louder than the evidence.\n\n## Why checking matters\n\nA research team led by Eyal, Steffel and Epley (2018) ran 25 experiments testing whether imagining yourself in another person's shoes makes you better at guessing their thoughts and feelings. It did not make people more accurate. In some cases their confidence even rose while accuracy did not. When people instead learned the other person's perspective directly, through conversation, accuracy improved. The takeaway for everyday life is simple: when something matters, asking beats guessing.\n\n## Steps you can try\n\n1. **Write down what happened** in camera-test language.\n2. **Label your additions** as interpretations, predictions, or mind reading.\n3. **List at least two other explanations**, including a boring one.\n4. **Decide whether to check.** Sometimes the best step is a calm question: \"Hey, I noticed X. Is everything okay?\"\n\n## Limits to keep in mind\n\nSometimes the assumption turns out to be right, and a hard fact is still a hard fact. This practice is not about talking yourself out of every worry. It is also not a way to dismiss your own experience. If someone repeatedly treats you badly, that pattern is information, not an assumption you need to disprove.\n\nExamining thoughts is a core skill in cognitive behavioral therapy, which a large review of meta-analyses found to have strong support for several conditions, including anxiety disorders. If racing assumptions are taking over your days, a licensed clinician can help in ways a short article cannot.\n",
+      "takeaways": [
+        "Feelings can be real while the story attached to them is still a guess.",
+        "The camera test: if a video camera could not record it, it is probably an interpretation.",
+        "Research on perspective-taking suggests that asking people directly improves accuracy more than imagining their view.",
+        "Sometimes your assumption is correct, and this practice does not require you to ignore patterns that are actually harmful."
+      ],
+      "prompts": [
+        "What is a story you told yourself recently that you never checked?",
+        "Which facts did you actually have in that moment?",
+        "Is there a kind, low-pressure question you could ask to find out more?"
+      ],
+      "exercise": "",
+      "sensitive": false,
+      "content_note": "",
+      "professional_note": "If worries and assumptions feel constant, are hard to set aside, or are affecting your daily life, consider speaking with a licensed mental health professional. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective (Eyal, Steffel & Epley)",
+          "publisher": "Journal of Personality and Social Psychology",
+          "year": 2018,
+          "url": "https://cris.iucc.ac.il/en/publications/perspective-mistaking-accurately-understanding-the-mind-of-anothe/"
+        },
+        {
+          "title": "The efficacy of cognitive behavioral therapy: A review of meta-analyses (Hofmann, Asnaani, Vonk, Sawyer & Fang)",
+          "publisher": "Cognitive Therapy and Research (via PubMed Central, NIH)",
+          "year": 2012,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3584580"
+        }
+      ],
+      "evidence_note": "Research findings: a 25-experiment series found that perspective taking did not improve accuracy about others' minds, while direct information did; CBT has a broad evidence base according to a review of meta-analyses. Limits: the fact-versus-assumption worksheet is a simplified educational tool, not a clinical technique, and the research cited does not test it directly.",
+      "related": [
+        "reframing",
+        "relationships-perspective",
+        "decisions"
+      ],
+      "pillar": "perspective",
+      "kind": "article",
+      "reading_minutes": 3
+    },
+    {
+      "slug": "control",
+      "topic": "control",
+      "title": "What You Can Control, What You Can Influence, and What You Can't",
+      "summary": "Stress often grows when we pour energy into things we cannot change. Sorting concerns into control, influence, and no control can point effort where it counts, without blaming anyone for circumstances they did not choose.",
+      "body": "## Three buckets, not two\n\nThe idea of \"control\" is often presented as a split between things you can change and things you cannot. Real life is messier. A more useful sort has three buckets:\n\n- **In my control:** my actions, my effort, how I speak to others, what I choose to do next.\n- **Within my influence:** things I can affect but not decide, like how a conversation goes, whether a boss says yes, or how a team responds.\n- **Outside my control:** other people's choices, the past, the weather, the economy, many health events.\n\nMost of what keeps us up at night sits in the second and third buckets. Sorting it can make a swirling worry feel more manageable.\n\n## Why this can matter\n\nA large meta-analysis by Cheng, Lau and Chan (2014) reviewed 329 studies with nearly 59,000 participants on coping flexibility, which is the ability to fit your coping strategy to the situation. It found a small-to-moderate positive link between coping flexibility and psychological adjustment (r = .23). Studies that measured a person's sense of matching strategy to situation tended to find stronger links than studies that only counted how many strategies someone had. This kind of research cannot prove cause and effect, but it fits a practical idea: the same tool does not work everywhere. Problem-solving fits problems you can act on. Rest, support, and acceptance fit things you cannot change.\n\n## Example (fictional): The job search\n\nPriya has been applying for jobs for two months and feels sick with worry.\n\n*In my control:* updating her resume, sending five applications a week, asking a former coworker for feedback.\n\n*Within my influence:* whether an interviewer remembers her, how well she prepares for each conversation.\n\n*Outside my control:* how many people apply, a company freezing hiring, a hiring manager's mood.\n\nPriya cannot make an employer say yes. She can choose what she does on Tuesday morning. Naming the buckets does not guarantee a job, but it shifts her from \"everything depends on me\" to \"some things depend on me, and I can do those well.\"\n\n## Your body's stress response is also open to interpretation\n\nIn an experiment by Jamieson and colleagues (2010), students preparing for a graduate exam were told that the physical arousal of nerves can help performance. Those students scored higher on the math section than a comparison group. It is one study, and it does not mean nerves are always helpful. It does suggest that how we interpret our body's signals is one place we sometimes have some influence.\n\n## Try this\n\n1. **List what is weighing on you.** Do not edit.\n2. **Sort each item** into control, influence, or no control.\n3. **For each \"control\" item, pick one next step** small enough to do today.\n4. **For each \"no control\" item, ask what support or comfort you need** and give yourself permission to feel what you feel about it.\n\n## Important limits\n\nFocusing on what you can control is not a way of saying everything is up to you. Illness, discrimination, poverty, unsafe homes, and loss are not failures of mindset, and no one chooses them. Sometimes the most powerful thing within your influence is reaching out for help, and that is a legitimate move, not a sign of weakness.\n\nIf a sense of powerlessness is constant or overwhelming, a licensed professional can help you sort through it with you.\n",
+      "takeaways": [
+        "Three buckets (control, influence, no control) are more realistic than a two-way split.",
+        "Matching your coping approach to the situation is linked to better adjustment in a large meta-analysis, though that link is not proof of cause.",
+        "How you interpret body sensations of stress may be one place you have some influence.",
+        "Circumstances outside someone's control are not their fault, and asking for help is a valid use of the control you do have."
+      ],
+      "prompts": [
+        "What is taking up the most mental space right now, and which bucket does it belong in?",
+        "What is one small thing in your control that you could do in the next 24 hours?",
+        "What would it look like to give yourself some comfort about something you cannot change?"
+      ],
+      "exercise": "",
+      "sensitive": false,
+      "content_note": "",
+      "professional_note": "If you feel helpless much of the time or your circumstances feel unmanageable, a licensed mental health professional or a trusted community resource can help. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Coping flexibility and psychological adjustment to stressful life changes: A meta-analytic review (Cheng, Lau & Chan)",
+          "publisher": "Psychological Bulletin, American Psychological Association",
+          "year": 2014,
+          "url": "https://repository.hku.hk/handle/10722/204912"
+        },
+        {
+          "title": "Turning the knots in your stomach into bows: Reappraising arousal improves performance on the GRE (Jamieson, Mendes, Blackstock & Schmader)",
+          "publisher": "Journal of Experimental Social Psychology",
+          "year": 2010,
+          "url": "https://dash.harvard.edu/handle/1/4214916"
+        }
+      ],
+      "evidence_note": "Research findings: a meta-analysis found a small-to-moderate positive association between coping flexibility and adjustment, and one experiment linked reappraising arousal to exam performance. Limits: the associations are correlational, the exam study is a single experiment, and the three-bucket sort is a common practical framework rather than a tested intervention.",
+      "related": [
+        "reframing",
+        "setbacks",
+        "decisions"
+      ],
+      "pillar": "perspective",
+      "kind": "article",
+      "reading_minutes": 3
+    },
+    {
+      "slug": "meaning",
+      "topic": "meaning",
+      "title": "Finding Meaning Without Forcing It",
+      "summary": "Meaning-making is the slow, personal process of fitting hard experiences into your sense of what matters. It cannot be rushed, and it is never required.",
+      "body": "## What meaning-making is, and is not\n\nWhen something hard happens, we often ask why, or what it says about us, or where life goes from here. Psychologists call the process of working through those questions meaning-making.\n\nIt is **not** the idea that everything happens for a reason. Some things do not happen for any reason, and some pain cannot and should not be made to look like a gift. Meaning-making also does not have a deadline. It can take months or years, and it is fine to have days when you cannot see any.\n\n## A research model in plain language\n\nCrystal Park's (2010) review of the meaning literature describes a model with two layers. *Global meaning* is your big-picture beliefs about how the world works and what matters to you (for example, \"effort pays off\" or \"people can be trusted\"). *Situational meaning* is how you interpret a specific event. Distress can grow when the two do not fit, such as when a layoff clashes with \"if I work hard I'll be safe.\" Meaning-making is the process of reducing that mismatch, either by reinterpreting the event or by adjusting the broader belief.\n\nPark noted that theory in this area has moved faster than the research, so some parts of the model are well supported and others are not. She also suggested that the quality of meaning-making may matter as much as the amount. Going over and over the same painful question without movement is different from slowly reaching an understanding you can live with.\n\nA longer study of 1,687 midlife adults who had experienced a very difficult event followed them for about 19 years. The researchers found that positive reappraisal was related to people's positive and negative emotions, partly through three dimensions of meaning in life: significance, coherence, and purpose. This is observational, so it cannot show that one thing caused the other.\n\n## Example (fictional): After the layoff\n\nTom spent 22 years at one company before a restructuring ended his job. For a while he repeats the same questions: \"Why me? What was it all for?\"\n\nOver several months, talking with his sister and writing in a notebook, he starts to notice something. What he valued most was not the title, it was mentoring younger coworkers. That does not make the layoff \"okay.\" He is still angry and still worried about money. But the thread of what matters to him gives him a direction as he looks for his next role.\n\n## Gentle ways to explore meaning\n\n- **Ask about values rather than reasons.** \"What matters to me, and how did this touch that?\" is easier to answer than \"Why did this happen?\"\n- **Look for small, true things.** Not silver linings you do not believe, but honest observations: who showed up, what you learned about yourself, what you now refuse to take for granted.\n- **Talk or write.** Putting the story into words, with someone safe or on paper, can help organize it.\n- **Let it be unfinished.** You can hold both \"this was terrible\" and \"I am still figuring out what it means.\"\n\n## Limits\n\nSearching for meaning should never be used to tell someone to be grateful for harm. If you are in a harmful situation now, safety and support come before meaning. If the weight of a loss or a painful event is not easing, or keeps intruding on your days, a licensed therapist can offer structured support at your pace.\n",
+      "takeaways": [
+        "Meaning-making is a slow, personal process, not a requirement and not the claim that everything happens for a reason.",
+        "Distress can grow when a hard event clashes with your deeper beliefs, and meaning-making works to close that gap.",
+        "Asking what matters to you can be gentler and more useful than asking why it happened.",
+        "It is fine for meaning to stay unfinished."
+      ],
+      "prompts": [
+        "What do you care about most, and how did a recent hard time touch that?",
+        "Is there a question you keep circling that might be better asked a different way?",
+        "Who could you talk to, or what could you write, to help you work through this at your own pace?"
+      ],
+      "exercise": "",
+      "sensitive": true,
+      "content_note": "This article briefly mentions research on people who have experienced traumatic or very difficult events.",
+      "professional_note": "If an event or loss continues to cause strong distress, intrusive memories, or trouble functioning, please consider speaking with a licensed mental health professional, ideally one experienced in trauma or grief. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Making sense of the meaning literature: An integrative review of meaning making and its effects on adjustment to stressful life events (Park)",
+          "publisher": "Psychological Bulletin, American Psychological Association",
+          "year": 2010,
+          "url": "https://ovc.ojp.gov/sites/g/files/xyckuh226/files/media/document/os_meaning_making_review.pdf"
+        },
+        {
+          "title": "A longitudinal investigation of the meaning-making model in midlife adults who have experienced trauma (Fitzke, Marsh & Prince)",
+          "publisher": "Journal of Clinical Psychology",
+          "year": 2021,
+          "url": "https://midus.wisc.edu/findings/pdfs/2416.pdf"
+        }
+      ],
+      "evidence_note": "Research findings: Park's review proposes a meaning-making model and notes that theory has outpaced empirical testing; a long-term observational study found that positive reappraisal was related to emotions partly through meaning in life. Limits: the studies are largely correlational, and meaning-making is a research concept, not a guaranteed path to feeling better.",
+      "related": [
+        "gratitude",
+        "setbacks",
+        "reframing"
+      ],
+      "pillar": "perspective",
+      "kind": "article",
+      "reading_minutes": 3
+    },
+    {
+      "slug": "gratitude",
+      "topic": "gratitude",
+      "title": "Gratitude That Isn't Forced",
+      "summary": "Gratitude practices have modest support in research, and they work best when they are honest and specific. They are not a treatment, and they are not a duty.",
+      "body": "## A small tool with modest evidence\n\nGratitude practices ask you to notice and appreciate good things in your life, often by writing them down or telling someone thank you. They are popular, and sometimes oversold. The honest picture from research is that they can help a little for some people, not that they transform lives.\n\nA meta-analysis by Cregg and Cheavens (2021) combined 27 studies with 3,675 participants and looked at symptoms of depression and anxiety. Gratitude interventions had a small effect on those symptoms right after the intervention (g = -0.29). The authors also noted that earlier reviews had raised the possibility that some benefits could reflect placebo effects.\n\nA broader systematic review published in 2023 (Diniz and colleagues) included 64 randomized trials, 33 of them in the meta-analysis. It found that gratitude interventions were associated with greater gratitude, higher life satisfaction, and fewer anxiety and depression symptoms. The reviewers also cautioned that most studies had a high risk of bias, certainty in the evidence was mostly low or very low, and measures varied widely. In other words: promising, modest, and not yet settled.\n\n## What \"not forced\" means\n\nGratitude does not mean:\n\n- feeling thankful for something painful,\n- hiding anger, grief, or fear under a smile,\n- comparing yourself with people who have it worse (\"at least...\"), or\n- owing anyone a good mood.\n\nYou can feel appreciation for one thing and sadness or frustration about another in the same hour. Both are true, and neither cancels the other.\n\n## Example (fictional): The tired caregiver\n\nJordan cares for a parent with dementia and is exhausted. Someone suggests a gratitude journal, and Jordan nearly rolls their eyes. \"Be thankful for what? This is hard.\"\n\nInstead of a list of big blessings, Jordan tries something smaller and honest. Three nights a week, Jordan writes one specific thing that helped that day: \"The neighbor dropped off soup.\" \"Dad laughed at the dog.\" \"The pharmacy line was short.\" Jordan also keeps a second line for \"what was hard today,\" because leaving it out feels fake. Some nights the gratitude line stays blank, and that is allowed. After a few weeks, Jordan notices the small helpful moments more easily, but the exhaustion and grief are still there, and Jordan keeps seeking caregiver support.\n\n## Ways to practice\n\n1. **Be specific.** \"My friend texted to check on me after my appointment\" lands better than \"I'm grateful for friends.\"\n2. **Focus on people and details**, not just possessions.\n3. **Start small and keep it short.** Two or three sentences, a few times a week, is plenty.\n4. **Say it to the person**, if you want. A brief thank-you message can be meaningful.\n5. **Skip it when it feels hollow.** If a practice feels like another chore, put it down.\n\n## Limits\n\nGratitude practices are not a treatment for depression or anxiety, and they do not replace therapy, medication, or other care. They should never be used to tell someone to be grateful for a harmful situation. If low mood, worry, or numbness lasts for weeks or interferes with daily life, please consider speaking with a licensed professional.\n",
+      "takeaways": [
+        "Research suggests gratitude practices can have a small benefit for some people, but evidence quality is mixed.",
+        "Specific, honest gratitude tends to feel more real than general lists.",
+        "You can feel grateful and sad, angry, or worried at the same time.",
+        "Gratitude is optional, and it is not a substitute for professional care."
+      ],
+      "prompts": [
+        "What is one specific, small thing from today that helped, even a little?",
+        "Is there a person you would want to thank, even briefly?",
+        "Where might gratitude be feeling forced for you, and what could you do instead?"
+      ],
+      "exercise": "",
+      "sensitive": false,
+      "content_note": "",
+      "professional_note": "If sadness, anxiety, or emptiness lasts for weeks or interferes with daily life, please talk with a licensed mental health professional or your doctor. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Gratitude interventions: Effective self-help? A meta-analysis of the impact on symptoms of depression and anxiety (Cregg & Cheavens)",
+          "publisher": "Journal of Happiness Studies",
+          "year": 2021,
+          "url": "https://ideas.repec.org/a/spr/jhappi/v22y2021i1d10.1007_s10902-020-00236-6.html"
+        },
+        {
+          "title": "The effects of gratitude interventions: a systematic review and meta-analysis (Diniz et al.)",
+          "publisher": "Einstein (Sao Paulo), via PubMed Central, NIH",
+          "year": 2023,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10393216"
+        }
+      ],
+      "evidence_note": "Research findings: two meta-analyses report small average improvements in anxiety and depression symptoms, and the 2023 review rates most evidence as low certainty with a high risk of bias. Limits: gratitude practices are a supportive habit, not a treatment, and results vary from person to person.",
+      "related": [
+        "meaning",
+        "setbacks",
+        "reframing"
+      ],
+      "pillar": "perspective",
+      "kind": "article",
+      "reading_minutes": 3
+    },
+    {
+      "slug": "setbacks",
+      "topic": "setbacks",
+      "title": "Setbacks: Treating a Stumble as Information",
+      "summary": "After a failure or disappointment, being hard on yourself can feel like motivation. Research suggests a kinder approach may keep people trying without the extra sting.",
+      "body": "## The harsh inner coach\n\nMany of us believe that if we stop being tough on ourselves after a mistake, we will stop trying. The inner critic feels like discipline: \"Don't let yourself off the hook.\"\n\nBut harshness and effort are not the same thing. Self-criticism often adds shame on top of the disappointment, and shame tends to make people want to hide, not to try again.\n\n## What studies suggest\n\nBreines and Chen (2012) ran four experiments to test whether self-compassion, meaning treating yourself with the kindness you would offer a friend, would sap motivation to improve. Compared with comparison groups, people who practiced self-compassion held a more flexible view of a personal weakness, felt more motivated to make amends after a moral mistake, and, in one experiment, spent more time studying for a difficult test after failing an earlier one. Their conclusion was that accepting your failures may, somewhat paradoxically, make you more motivated to improve. Four experiments are a starting point, not a verdict.\n\nA separate meta-analysis by Zessin and colleagues (2015) pooled 79 samples with over 16,000 participants and found that higher self-compassion went with better well-being overall (r = .47). Most of that evidence is correlational, so we cannot say self-compassion causes well-being, although a smaller group of studies in the review suggested it might.\n\n## What self-compassion is not\n\nIt is not making excuses, ignoring consequences, or lowering your standards. It means acknowledging that the thing hurt, remembering that struggling is part of being human, and speaking to yourself in a way that helps you get back up.\n\n## Example (fictional): The failed exam\n\nAlicia studied for months for a professional certification exam and did not pass. Her first thought is, \"I'm a fraud. Everyone else passes.\"\n\nShe pauses and tries three steps.\n\n1. **Name what happened without a verdict:** \"I did not pass this attempt. That stings.\"\n2. **Treat it like information:** What went well? Which sections were weakest? Was the study plan the problem, or the test conditions?\n3. **Pick a next step:** She emails the testing body about the retake schedule and asks a colleague who passed how they studied.\n\nShe still feels disappointed. But she moves from \"I am a failure\" to \"I have a result and a plan,\" which is easier to work with.\n\n## When you are in the middle of one\n\n- **Say what is true and hard.** \"This is a real loss,\" not \"It's fine.\"\n- **Ask the friend question.** \"What would I say to someone I care about in this exact spot?\"\n- **Separate the event from your worth.** A result is one data point, not your identity.\n- **Choose the smallest next step**, then rest.\n- **Let others in.** Disappointment is easier to carry with company.\n\n## Limits\n\nNot every setback is small. Major losses, such as the end of a relationship, a health crisis, or job loss, can bring grief that needs time and support, not a quick bounce back. There is no schedule you are failing. And some setbacks happen because of systems, circumstances, or other people, not because of anything you did, and you are not to blame for those.\n\nIf a setback leaves you feeling hopeless, worthless, or unable to function for more than a couple of weeks, please reach out to a licensed professional.\n",
+      "takeaways": [
+        "Harsh self-criticism after a failure can feel productive, but experiments suggest self-compassion may keep motivation going while easing the sting.",
+        "Self-compassion is not excuse-making, it is speaking to yourself the way you would to a friend.",
+        "Treat a setback as information, then choose one small next step.",
+        "Big losses need time and support, and not every setback is your fault."
+      ],
+      "prompts": [
+        "What do you tell yourself when something goes wrong, and would you say it to a friend?",
+        "If this setback were information, what might it be telling you?",
+        "What is the smallest next step you could take, and who could you ask for help?"
+      ],
+      "exercise": "",
+      "sensitive": false,
+      "content_note": "",
+      "professional_note": "If a setback leaves you feeling hopeless, worthless, or unable to function for more than a couple of weeks, please talk with a licensed mental health professional. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Self-compassion increases self-improvement motivation (Breines & Chen)",
+          "publisher": "Personality and Social Psychology Bulletin",
+          "year": 2012,
+          "url": "https://journals.sagepub.com/doi/10.1177/0146167212445599"
+        },
+        {
+          "title": "The relationship between self-compassion and well-being: A meta-analysis (Zessin, Dickhauser & Garbade)",
+          "publisher": "Applied Psychology: Health and Well-Being",
+          "year": 2015,
+          "url": "https://self-compassion.org/wp-content/uploads/2015/09/Zessin.meta-analysis.pdf"
+        }
+      ],
+      "evidence_note": "Research findings: four experiments found self-compassion was linked to greater motivation to improve, and a meta-analysis found self-compassion goes along with well-being (a correlation). Limits: much of the evidence is correlational, the experiments are few, and self-compassion is not a substitute for care after serious loss.",
+      "related": [
+        "gratitude",
+        "control",
+        "meaning"
+      ],
+      "pillar": "perspective",
+      "kind": "article",
+      "reading_minutes": 3
+    },
+    {
+      "slug": "relationships-perspective",
+      "topic": "relationships-perspective",
+      "title": "Perspective in Relationships: Getting It, Not Just Guessing It",
+      "summary": "Understanding another person takes more than imagining their view. Curiosity and conversation tend to work better than mind reading, with an important exception: you do not owe empathy to someone who harms you.",
+      "body": "## Two people, two stories\n\nMost conflicts are not about one person being right. Two people lived the same moment with different information, different moods, and different histories. Each tells a story that makes sense from the inside.\n\nPerspective-taking is the skill of stepping, even briefly, into the other person's view. It can reduce defensiveness and open up better conversations. But it has a trap.\n\n## Taking perspective vs. getting perspective\n\nEyal, Steffel and Epley (2018) ran 25 experiments on whether being told to take another person's perspective makes you better at knowing what they think and feel. It did not improve accuracy. Accuracy sometimes dipped slightly while confidence sometimes rose. When people learned the other person's perspective directly, through conversation, accuracy did improve. The authors summarize it as getting perspective, not simply taking it.\n\nIn everyday terms: \"If I were them, I'd be mad\" is a guess. \"You seemed quiet at dinner. What was going on for you?\" is information.\n\n## A different benefit of stepping back\n\nPerspective can also help with your own side of a conflict. Grossmann and Kross (2014) found, across three experiments with 693 participants, that people reasoned more wisely about someone else's relationship conflict than their own. This included recognizing limits to their own knowledge, valuing compromise, and considering other viewpoints. When people were asked to self-distance, meaning to look at their conflict as an outside observer would, that gap went away.\n\nAcross the broader emotion-regulation literature, a meta-analysis by Webb, Miles and Sheeran (2012) found that perspective taking was one of the more effective forms of cognitive change (d+ = 0.45). It can calm things down, as long as we do not mistake it for knowing.\n\n## Example (fictional): The dishes\n\nSam is irritated that Riley left the dishes again. His first story: \"Riley doesn't respect me.\"\n\nHe tries the observer view: if a neighbor watched this argument, what would they see? Two tired people and a sink. Then he gets perspective instead of assuming it. \"Hey, the dishes have been piling up and it's bugging me. How has your week been?\" Riley explains that a deadline has swallowed their evenings and they feel guilty. They agree on a swap for two weeks. Sam did not have to decide Riley was right, only to find out what was really going on.\n\n## Tools to try\n\n- **Ask, then listen.** One open question beats three guesses.\n- **Name your guess out loud.** \"I might be wrong, but I'm wondering if...\"\n- **Take the observer view** before replying in a heated moment.\n- **Aim for understanding, not agreement.** You can understand someone and still disagree.\n- **Take a break** if either of you is too upset to hear anything.\n\n## When this does not apply\n\nPerspective-taking is for ordinary conflicts between people who basically respect each other. It is not a reason to keep seeing the best in someone who controls, frightens, or hurts you. If you are not safe in a relationship, understanding their point of view is not the goal. Your safety is. A licensed counselor, a trusted person, or a domestic violence service can help you plan.\n",
+      "takeaways": [
+        "Research suggests imagining someone's view does not reliably make you more accurate, while asking them does.",
+        "Looking at your own conflict from an observer's view may help you reason more wisely about it.",
+        "Understanding someone does not mean agreeing with them or excusing harm.",
+        "In unsafe relationships, safety comes before perspective-taking."
+      ],
+      "prompts": [
+        "Where in a current relationship are you guessing what the other person thinks?",
+        "What is one open, curious question you could ask this week?",
+        "If a neutral observer watched your last disagreement, what might they notice?"
+      ],
+      "exercise": "",
+      "sensitive": true,
+      "content_note": "This article briefly mentions unsafe or harmful relationships.",
+      "professional_note": "If conflicts at home or work are wearing you down, or if you feel unsafe or controlled in a relationship, please reach out to a licensed counselor, a trusted person, or a domestic violence service. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective (Eyal, Steffel & Epley)",
+          "publisher": "Journal of Personality and Social Psychology",
+          "year": 2018,
+          "url": "https://cris.iucc.ac.il/en/publications/perspective-mistaking-accurately-understanding-the-mind-of-anothe/"
+        },
+        {
+          "title": "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults (Grossmann & Kross)",
+          "publisher": "Psychological Science",
+          "year": 2014,
+          "url": "https://journals.sagepub.com/doi/10.1177/0956797614535400"
+        },
+        {
+          "title": "Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation (Webb, Miles & Sheeran)",
+          "publisher": "Psychological Bulletin, American Psychological Association",
+          "year": 2012,
+          "url": "https://sussex.figshare.com/articles/journal_contribution/Dealing_with_feeling_a_meta-analysis_of_the_effectiveness_of_strategies_derived_from_the_process_model_of_emotion_regulation/23396432"
+        }
+      ],
+      "evidence_note": "Research findings: a 25-experiment series found that perspective taking did not improve accuracy about others' minds while direct information did; three experiments found self-distancing improved wise reasoning about conflicts; a meta-analysis found perspective taking was among the more effective forms of cognitive change. Limits: these were mostly controlled experiments, and they do not address relationships involving harm.",
+      "related": [
+        "facts-vs-assumptions",
+        "decisions",
+        "reframing"
+      ],
+      "pillar": "perspective",
+      "kind": "article",
+      "reading_minutes": 3
+    },
+    {
+      "slug": "decisions",
+      "topic": "decisions",
+      "title": "Decisions: Stepping Back to See More Clearly",
+      "summary": "We often reason better about a friend's problem than our own. Creating a little distance from a decision can help you weigh it more wisely, though some choices also need facts, time, and support.",
+      "body": "## Why our own decisions feel harder\n\nWhen a decision is close to home, emotion and urgency crowd the view. Worries about what others will think, fear of regret, and tiredness can narrow our attention to a few vivid details. The same problem is often clearer when it belongs to someone else.\n\nThis is sometimes called Solomon's paradox: we can give wise advice to others while struggling with our own situation.\n\n## What research suggests\n\nGrossmann and Kross (2014) ran three experiments with 693 participants. People reasoned more wisely about someone else's relationship conflict than about their own, for example by recognizing the limits of their knowledge, valuing compromise, and taking other viewpoints into account. When people were asked to self-distance (to view their own situation from an outside perspective) rather than immerse themselves in it, the gap between self and other disappeared. The study included younger and older adults, and age did not predict wiser reasoning about personal conflicts.\n\nThese findings are from controlled experiments about interpersonal conflict. They suggest a useful habit for decisions, though they do not prove that distance fixes every choice.\n\nWebb, Miles and Sheeran's (2012) meta-analysis of emotion regulation found that perspective taking was one of the more effective forms of cognitive change (d+ = 0.45), which fits with the idea that changing your vantage point can shift how a situation feels.\n\n## Example (fictional): The job offer\n\nChris has an offer for a role with a higher salary but a longer commute. After a week of going back and forth, Chris is exhausted and leaning toward saying yes mostly to end the stress.\n\nChris tries three distance questions on paper:\n\n1. **What would I tell a close friend in this exact situation?** \"I'd ask what a longer commute does to your week, and what the pay gap means for your goals.\"\n2. **How will this look in a year? In five?** The pay raise matters, but so does the lost time with family.\n3. **What am I missing?** Chris realizes they have not asked about remote days. A short email to the employer turns up an option that changes the picture.\n\nChris still feels torn, but now has better information and a clearer sense of what matters.\n\n## A short decision routine\n\n- **Name the decision in one sentence** and the real deadline, if there is one.\n- **Write what you know and what you are assuming.**\n- **Step back:** What would I advise a friend? What would I notice if I were watching from outside?\n- **Check your state.** Are you hungry, exhausted, or flooded with emotion? If the choice can wait, wait.\n- **Ask someone you trust** to poke holes in your thinking.\n- **Take a small, reversible step** when you can, before a big one.\n\n## Limits\n\nPerspective is only one input. Good decisions also need accurate information, time, and sometimes professional advice on money, health, or legal matters. If you are in a crisis or going through severe depression or anxiety, thoughts can feel more certain than they are, so avoid making major irreversible decisions alone and lean on someone you trust or a professional. You are never required to decide faster than you are able to.\n",
+      "takeaways": [
+        "We often reason more wisely about other people's problems than our own.",
+        "In experiments, viewing a conflict from an outside perspective closed that gap.",
+        "Ask what you would tell a friend, how this looks in a year, and what you may be missing.",
+        "Big decisions made under severe stress or depression deserve extra time and support."
+      ],
+      "prompts": [
+        "What decision are you weighing, and what would you tell a friend in the same spot?",
+        "How might this look to you a year from now?",
+        "What information or person could help you see what you are missing?"
+      ],
+      "exercise": "",
+      "sensitive": false,
+      "content_note": "",
+      "professional_note": "If a decision feels impossible because of persistent anxiety, low mood, or crisis, please consider speaking with a licensed mental health professional, and for money, legal, or medical choices, a qualified advisor. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults (Grossmann & Kross)",
+          "publisher": "Psychological Science",
+          "year": 2014,
+          "url": "https://journals.sagepub.com/doi/10.1177/0956797614535400"
+        },
+        {
+          "title": "Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation (Webb, Miles & Sheeran)",
+          "publisher": "Psychological Bulletin, American Psychological Association",
+          "year": 2012,
+          "url": "https://sussex.figshare.com/articles/journal_contribution/Dealing_with_feeling_a_meta-analysis_of_the_effectiveness_of_strategies_derived_from_the_process_model_of_emotion_regulation/23396432"
+        }
+      ],
+      "evidence_note": "Research findings: three experiments found self-distancing helped people reason about their own conflicts as wisely as about others', and a meta-analysis found perspective taking was among the more effective forms of cognitive change. Limits: the experiments focused on relationship conflicts rather than all decisions, and distancing does not replace information or advice.",
+      "related": [
+        "facts-vs-assumptions",
+        "control",
+        "relationships-perspective"
+      ],
+      "pillar": "perspective",
+      "kind": "article",
+      "reading_minutes": 3
+    }
+  ],
+  "exercises": [
+    {
+      "slug": "reframe-a-situation",
+      "topic": "reframing",
+      "pillar": "perspective",
+      "kind": "exercise",
+      "title": "Try a Reframe",
+      "summary": "Take one stressful moment and look at it from a few reasonable angles, then choose a view you can actually believe.",
+      "minutes": 8,
+      "intro": "Reframing means looking at a situation from another reasonable angle. It is not about pretending things are fine. The goal is to see whether there is a more balanced reading that you can believe.\n\nPick something small to medium in size for your first try, not the hardest thing in your life. Your answers are private and you can save them if you like.",
+      "example": "**Example (fictional):** Maya's manager said almost nothing after her presentation.\n\n- *Situation:* Quiet reaction after my presentation.\n- *First thought:* She hated it and I'm in trouble.\n- *Other readings:* She was rushed. She was thinking. She prefers to give feedback one on one.\n- *Balanced view I can believe:* I don't know yet, and I can ask for feedback.\n- *Small step:* Request ten minutes on Thursday.",
+      "steps": [
+        {
+          "id": "s1",
+          "prompt": "What happened? Describe the situation in a sentence or two, like a camera would record it.",
+          "help": "Stick to what could be seen or heard.",
+          "type": "text"
+        },
+        {
+          "id": "s2",
+          "prompt": "What was your first interpretation or thought about it?",
+          "help": "Write it just as it showed up, even if it feels harsh.",
+          "type": "text"
+        },
+        {
+          "id": "s3",
+          "prompt": "How strongly do you believe that first thought right now?",
+          "help": "There is no right answer, this just gives you a starting point.",
+          "type": "scale",
+          "min": 0,
+          "max": 10,
+          "label_min": "Not at all",
+          "label_max": "Completely"
+        },
+        {
+          "id": "s4",
+          "prompt": "What are two or three other reasonable ways to read the situation?",
+          "help": "Include at least one boring or neutral explanation.",
+          "type": "text"
+        },
+        {
+          "id": "s5",
+          "prompt": "What is a more balanced view that you could actually believe?",
+          "help": "If it feels fake, make it smaller and more honest.",
+          "type": "text"
+        },
+        {
+          "id": "s6",
+          "prompt": "What is one small step that fits this view?",
+          "help": "For example, asking a question, taking a break, or doing nothing yet.",
+          "type": "text"
+        }
+      ],
+      "closing": "It is completely okay if this did not help today. Some days a reflection just does not land, and that says nothing about you. You can come back to it later, or skip it.",
+      "sensitive": false,
+      "professional_note": "If distressing thoughts are persistent or affecting your daily life, consider talking with a licensed mental health professional. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation (Webb, Miles & Sheeran)",
+          "publisher": "Psychological Bulletin, American Psychological Association",
+          "year": 2012,
+          "url": "https://sussex.figshare.com/articles/journal_contribution/Dealing_with_feeling_a_meta-analysis_of_the_effectiveness_of_strategies_derived_from_the_process_model_of_emotion_regulation/23396432"
+        }
+      ]
+    },
+    {
+      "slug": "facts-vs-assumptions-sort",
+      "topic": "facts-vs-assumptions",
+      "pillar": "perspective",
+      "kind": "exercise",
+      "title": "Sort Facts From Assumptions",
+      "summary": "Split a worry into what you know and what you are adding, then decide whether a gentle check-in would help.",
+      "minutes": 7,
+      "intro": "When we are stressed, guesses can feel like facts. This exercise helps you pull the two apart. A good test is the camera test: would a video camera have recorded it?\n\nSome of your assumptions may turn out to be right. The point is to know which is which.",
+      "example": "**Example (fictional):** Dev's friend has not answered his text.\n\n- *Facts:* I texted at 2 p.m. No reply by 8 p.m. She sometimes takes a day to reply.\n- *Assumptions:* She's annoyed. It's about last month. It's my fault.\n- *Other explanations:* Busy day. Phone died. Forgot to answer.\n- *Next step:* Send a light message tomorrow morning.",
+      "steps": [
+        {
+          "id": "s1",
+          "prompt": "What is the situation that is on your mind?",
+          "help": "One or two sentences is plenty.",
+          "type": "text"
+        },
+        {
+          "id": "s2",
+          "prompt": "List the facts: what could a camera have recorded?",
+          "help": "Times, words, actions. Leave out motives and predictions.",
+          "type": "text"
+        },
+        {
+          "id": "s3",
+          "prompt": "List what you are adding: interpretations, predictions, or mind reading.",
+          "help": "Phrases like 'they probably', 'I bet', or 'always' are clues.",
+          "type": "text"
+        },
+        {
+          "id": "s4",
+          "prompt": "How certain do you feel about your biggest assumption?",
+          "help": "Rate it honestly, even if it feels very certain.",
+          "type": "scale",
+          "min": 0,
+          "max": 10,
+          "label_min": "Just a guess",
+          "label_max": "Completely certain"
+        },
+        {
+          "id": "s5",
+          "prompt": "What are two other possible explanations?",
+          "help": "Include one that is ordinary or boring.",
+          "type": "text"
+        },
+        {
+          "id": "s6",
+          "prompt": "What would help most right now?",
+          "help": "Pick the option that feels most doable.",
+          "type": "choice",
+          "options": [
+            "Ask the person a calm, open question",
+            "Wait a bit and see what happens",
+            "Gather more information first",
+            "Talk it through with someone I trust",
+            "Let it go for now"
+          ]
+        }
+      ],
+      "closing": "It is completely okay if this did not help today. Some days a reflection just does not land, and that says nothing about you. You can come back to it later, or skip it.",
+      "sensitive": false,
+      "professional_note": "If worries or assumptions feel constant or hard to set aside, consider talking with a licensed mental health professional. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "The efficacy of cognitive behavioral therapy: A review of meta-analyses (Hofmann, Asnaani, Vonk, Sawyer & Fang)",
+          "publisher": "Cognitive Therapy and Research (via PubMed Central, NIH)",
+          "year": 2012,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3584580"
+        },
+        {
+          "title": "Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective (Eyal, Steffel & Epley)",
+          "publisher": "Journal of Personality and Social Psychology",
+          "year": 2018,
+          "url": "https://cris.iucc.ac.il/en/publications/perspective-mistaking-accurately-understanding-the-mind-of-anothe/"
+        }
+      ]
+    },
+    {
+      "slug": "control-map",
+      "topic": "control",
+      "pillar": "perspective",
+      "kind": "exercise",
+      "title": "Map What You Can Control",
+      "summary": "Sort a current worry into what is in your control, within your influence, and outside your control, then choose one small step.",
+      "minutes": 10,
+      "intro": "When a worry feels huge, it often helps to separate the parts. Some are yours to act on, some you can only influence, and some are out of anyone's hands. None of this means everything is your fault. Many things people face are not their choice.\n\nGo at your own pace and skip any step you want to.",
+      "example": "**Example (fictional):** Priya's job search.\n\n- *In my control:* Updating my resume. Sending five applications a week.\n- *Within my influence:* How I prepare for interviews. Who remembers me.\n- *Outside my control:* Hiring freezes. How many others apply.\n- *One step for today:* Email a former coworker for feedback.\n- *Comfort for the rest:* Call a friend after a tough day and take a walk.",
+      "steps": [
+        {
+          "id": "s1",
+          "prompt": "What is the concern that is weighing on you?",
+          "help": "Name it in a sentence or two.",
+          "type": "text"
+        },
+        {
+          "id": "s2",
+          "prompt": "What parts are fully in your control (your actions, effort, words, next choices)?",
+          "help": "Think about what you could do this week.",
+          "type": "text"
+        },
+        {
+          "id": "s3",
+          "prompt": "What parts are within your influence, but not your decision?",
+          "help": "For example, how a conversation goes or how others respond.",
+          "type": "text"
+        },
+        {
+          "id": "s4",
+          "prompt": "What parts are outside your control?",
+          "help": "The past, other people's choices, and many outside events belong here.",
+          "type": "text"
+        },
+        {
+          "id": "s5",
+          "prompt": "What is one small step you can take on something in your control?",
+          "help": "Make it small enough to do in a day.",
+          "type": "text"
+        },
+        {
+          "id": "s6",
+          "prompt": "For the parts you cannot control, what support, rest, or comfort would help?",
+          "help": "This could be a person, a break, or just permission to feel it.",
+          "type": "text"
+        }
+      ],
+      "closing": "It is completely okay if this did not help today. Some days a reflection just does not land, and that says nothing about you. You can come back to it later, or skip it.",
+      "sensitive": false,
+      "professional_note": "If you feel powerless or overwhelmed much of the time, consider talking with a licensed mental health professional or a trusted community resource. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Coping flexibility and psychological adjustment to stressful life changes: A meta-analytic review (Cheng, Lau & Chan)",
+          "publisher": "Psychological Bulletin, American Psychological Association",
+          "year": 2014,
+          "url": "https://repository.hku.hk/handle/10722/204912"
+        }
+      ]
+    },
+    {
+      "slug": "gratitude-specifics",
+      "topic": "gratitude",
+      "pillar": "perspective",
+      "kind": "exercise",
+      "title": "Specific, Honest Gratitude",
+      "summary": "Notice a few small, specific things that helped, without pushing away what is hard.",
+      "minutes": 6,
+      "intro": "This is a gentle gratitude practice that does not ask you to feel thankful for anything painful. It asks you to notice small, specific things that helped, and also gives space to what was hard.\n\nIf nothing comes to mind, that is okay. You can write 'nothing today' and move on.",
+      "example": "**Example (fictional):** Jordan, a tired caregiver.\n\n- *Something small that helped:* The neighbor dropped off soup.\n- *Why it mattered:* I did not have to cook, and it felt like someone saw me.\n- *Something that was hard:* Dad did not recognize me at lunch.\n- *Anyone to thank:* I will text the neighbor tonight.",
+      "steps": [
+        {
+          "id": "s1",
+          "prompt": "What is one small, specific thing from today (or this week) that helped, even a little?",
+          "help": "Details beat generalities. 'My friend texted after my appointment' is better than 'friends'.",
+          "type": "text"
+        },
+        {
+          "id": "s2",
+          "prompt": "Why did it matter to you?",
+          "help": "A sentence is enough.",
+          "type": "text"
+        },
+        {
+          "id": "s3",
+          "prompt": "Is there something that was hard today that you want to name too?",
+          "help": "Gratitude and difficulty can sit side by side.",
+          "type": "text"
+        },
+        {
+          "id": "s4",
+          "prompt": "Is there someone you might want to thank?",
+          "help": "No pressure. Pick what feels right.",
+          "type": "choice",
+          "options": [
+            "Yes, I will send a short message",
+            "Maybe later",
+            "Not this time"
+          ]
+        },
+        {
+          "id": "s5",
+          "prompt": "How did this feel to do?",
+          "help": "Be honest. It is fine if it felt forced.",
+          "type": "scale",
+          "min": 0,
+          "max": 10,
+          "label_min": "Forced or flat",
+          "label_max": "Warm and real"
+        }
+      ],
+      "closing": "It is completely okay if this did not help today. Some days a reflection just does not land, and that says nothing about you. You can come back to it later, or skip it.",
+      "sensitive": false,
+      "professional_note": "If sadness, anxiety, or numbness lasts for weeks or interferes with daily life, please talk with a licensed mental health professional or your doctor. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Gratitude interventions: Effective self-help? A meta-analysis of the impact on symptoms of depression and anxiety (Cregg & Cheavens)",
+          "publisher": "Journal of Happiness Studies",
+          "year": 2021,
+          "url": "https://ideas.repec.org/a/spr/jhappi/v22y2021i1d10.1007_s10902-020-00236-6.html"
+        }
+      ]
+    },
+    {
+      "slug": "setback-reset",
+      "topic": "setbacks",
+      "pillar": "perspective",
+      "kind": "exercise",
+      "title": "After a Setback: A Kind Reset",
+      "summary": "Name what happened, speak to yourself the way you would to a friend, and choose a small next step.",
+      "minutes": 8,
+      "intro": "Setbacks hurt. This exercise helps you describe what happened without a harsh verdict, respond to yourself with some kindness, and find a small next step.\n\nIf the setback is a major loss, go gently and consider sharing it with someone you trust.",
+      "example": "**Example (fictional):** Alicia did not pass a certification exam.\n\n- *What happened:* I did not pass this attempt.\n- *What I am telling myself:* I'm a fraud.\n- *What I would tell a friend:* One result is not your worth. You can retake it, and you worked hard.\n- *What I can learn:* My weakest sections were X and Y.\n- *Small next step:* Email about the retake schedule.",
+      "steps": [
+        {
+          "id": "s1",
+          "prompt": "What happened? Describe it without a verdict on yourself.",
+          "help": "'I did not get the job' rather than 'I'm a failure'.",
+          "type": "text"
+        },
+        {
+          "id": "s2",
+          "prompt": "What are you telling yourself about it?",
+          "help": "Write the harsh voice honestly. It is easier to deal with once it is on paper.",
+          "type": "text"
+        },
+        {
+          "id": "s3",
+          "prompt": "What would you say to a friend who had this exact setback?",
+          "help": "Write it in the kind, honest tone you would use with them.",
+          "type": "text"
+        },
+        {
+          "id": "s4",
+          "prompt": "What might this experience be telling you (information, not a verdict)?",
+          "help": "Some of it may be about circumstances you did not control.",
+          "type": "text"
+        },
+        {
+          "id": "s5",
+          "prompt": "What is one small next step, or one person you could lean on?",
+          "help": "It can also be rest, if that is what you need.",
+          "type": "text"
+        },
+        {
+          "id": "s6",
+          "prompt": "How are you feeling now compared with when you started?",
+          "help": "There is no right answer.",
+          "type": "scale",
+          "min": 0,
+          "max": 10,
+          "label_min": "Heavier",
+          "label_max": "A bit lighter"
+        }
+      ],
+      "closing": "It is completely okay if this did not help today. Some days a reflection just does not land, and that says nothing about you. You can come back to it later, or skip it.",
+      "sensitive": false,
+      "professional_note": "If a setback leaves you feeling hopeless or worthless, or you cannot function for more than a couple of weeks, please talk with a licensed mental health professional. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Self-compassion increases self-improvement motivation (Breines & Chen)",
+          "publisher": "Personality and Social Psychology Bulletin",
+          "year": 2012,
+          "url": "https://journals.sagepub.com/doi/10.1177/0146167212445599"
+        },
+        {
+          "title": "The relationship between self-compassion and well-being: A meta-analysis (Zessin, Dickhauser & Garbade)",
+          "publisher": "Applied Psychology: Health and Well-Being",
+          "year": 2015,
+          "url": "https://self-compassion.org/wp-content/uploads/2015/09/Zessin.meta-analysis.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "decision-step-back",
+      "topic": "decisions",
+      "pillar": "perspective",
+      "kind": "exercise",
+      "title": "Step Back From a Decision",
+      "summary": "Look at a decision from the outside by asking what you would tell a friend and how it may look in a year.",
+      "minutes": 10,
+      "intro": "It is often easier to see a friend's situation clearly than our own. This exercise helps you borrow that outside view for a decision you are weighing.\n\nIf you are exhausted or very upset, it may help to do this later. Big choices do not have to be made in a hurry.",
+      "example": "**Example (fictional):** Chris has a job offer with higher pay and a longer commute.\n\n- *Decision:* Take the offer or stay.\n- *Advice to a friend:* Ask what the commute does to your week and what the pay means for your goals.\n- *In a year:* The money helps, but lost family time may matter more.\n- *What I may be missing:* Whether remote days are possible.\n- *Next step:* Email the employer to ask.",
+      "steps": [
+        {
+          "id": "s1",
+          "prompt": "What decision are you weighing? State it in one sentence.",
+          "help": "Include a real deadline if there is one.",
+          "type": "text"
+        },
+        {
+          "id": "s2",
+          "prompt": "If a close friend asked you for advice about this exact situation, what would you tell them?",
+          "help": "Write it as if you were talking to them.",
+          "type": "text"
+        },
+        {
+          "id": "s3",
+          "prompt": "How might this look in a year? In five years?",
+          "help": "Imagine looking back from the future.",
+          "type": "text"
+        },
+        {
+          "id": "s4",
+          "prompt": "What might you be missing? What information or whose view would help?",
+          "help": "Include facts you could look up and people you could ask.",
+          "type": "text"
+        },
+        {
+          "id": "s5",
+          "prompt": "How are you feeling right now (rested and calm, or tired and flooded)?",
+          "help": "Strong stress can make choices feel more urgent than they are.",
+          "type": "choice",
+          "options": [
+            "Calm enough to decide",
+            "Somewhat stressed",
+            "Very stressed or exhausted",
+            "Not sure"
+          ]
+        },
+        {
+          "id": "s6",
+          "prompt": "What is one small, reversible step you could take next?",
+          "help": "For example, asking a question or sleeping on it.",
+          "type": "text"
+        }
+      ],
+      "closing": "It is completely okay if this did not help today. Some days a reflection just does not land, and that says nothing about you. You can come back to it later, or skip it.",
+      "sensitive": false,
+      "professional_note": "If a decision feels impossible because of persistent anxiety or low mood, consider talking with a licensed mental health professional, and for money, legal, or medical choices, a qualified advisor. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Exploring Solomon's paradox: Self-distancing eliminates the self-other asymmetry in wise reasoning about close relationships in younger and older adults (Grossmann & Kross)",
+          "publisher": "Psychological Science",
+          "year": 2014,
+          "url": "https://journals.sagepub.com/doi/10.1177/0956797614535400"
+        }
+      ]
+    },
+    {
+      "slug": "mindful-pause",
+      "topic": "mindfulness",
+      "pillar": "wellness",
+      "kind": "exercise",
+      "title": "A Mindful Pause",
+      "summary": "A short pause to notice where your attention is, what you feel in your body, and what you need.",
+      "minutes": 4,
+      "intro": "A mindful pause is a brief check-in. You are not trying to clear your mind or feel calm. You are just noticing, with some kindness, what is here right now.\n\nFind a comfortable position. You can keep your eyes open. Take as much or as little time as you like.",
+      "example": "**Example (fictional):** Sam pauses before a meeting.\n\n- *Attention:* Racing ahead to what could go wrong.\n- *Body:* Tight shoulders, shallow breathing.\n- *Feelings:* Nervous.\n- *What I need:* Three slow breaths and a drink of water.",
+      "steps": [
+        {
+          "id": "s1",
+          "prompt": "Where is your attention right now? (The past, the future, a worry, this moment?)",
+          "help": "Just notice, with no judgment.",
+          "type": "text"
+        },
+        {
+          "id": "s2",
+          "prompt": "What do you notice in your body?",
+          "help": "Check your shoulders, jaw, stomach, and breath.",
+          "type": "text"
+        },
+        {
+          "id": "s3",
+          "prompt": "What feelings are here?",
+          "help": "Name them in a word or two.",
+          "type": "text"
+        },
+        {
+          "id": "s4",
+          "prompt": "How tense or stressed do you feel right now?",
+          "help": "There is no right answer.",
+          "type": "scale",
+          "min": 0,
+          "max": 10,
+          "label_min": "Calm",
+          "label_max": "Very tense"
+        },
+        {
+          "id": "s5",
+          "prompt": "Take three slow breaths. What do you need next?",
+          "help": "A stretch, water, a walk, a conversation, or nothing at all.",
+          "type": "text"
+        }
+      ],
+      "closing": "It is completely okay if this did not help today. Some days a reflection just does not land, and that says nothing about you. You can come back to it later, or skip it.",
+      "sensitive": false,
+      "professional_note": "If stress, anxiety, or low mood is persistent or hard to manage, please talk with a licensed mental health professional. Mindfulness practices are not a substitute for care. If you are in crisis in the U.S., call or text 988 (Suicide & Crisis Lifeline). In an emergency, call 911.",
+      "sources": [
+        {
+          "title": "Meditation programs for psychological stress and well-being: a systematic review and meta-analysis (Goyal et al.)",
+          "publisher": "JAMA Internal Medicine, via PubMed (NIH)",
+          "year": 2014,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24395196/"
+        },
+        {
+          "title": "A wandering mind is an unhappy mind (Killingsworth & Gilbert)",
+          "publisher": "Science",
+          "year": 2010,
+          "url": "https://dash.harvard.edu/handle/1/33431727"
+        }
+      ]
+    }
+  ]
+}
