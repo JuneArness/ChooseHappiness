@@ -1,4 +1,5 @@
 import { useState, type FormEvent } from "react";
+import { Link } from "react-router-dom";
 import { Download, Lock, Pencil, Plus, Search, Trash2 } from "lucide-react";
 import { useApp, useRpc } from "../lib/app";
 import { friendlyError } from "../lib/backend";
@@ -45,7 +46,7 @@ export default function Journal() {
 
   return (
     <>
-      <PageHeader kicker="Private" title="My journal" intro={<span className="flex items-center gap-2"><Lock className="h-4 w-4 flex-none" aria-hidden="true" />Only you can read your journal. Administrators and moderators can't see it in the app. <a className="link" href="/privacy">How privacy works</a></span>}>
+      <PageHeader kicker="Private" title="My journal" intro={<span className="flex items-center gap-2"><Lock className="h-4 w-4 flex-none" aria-hidden="true" />Only you can read your journal. Administrators and moderators can't see it in the app. <Link className="link" to="/privacy">How privacy works</Link></span>}>
         <div className="mt-6 flex flex-wrap gap-3">
           <button type="button" className="btn-primary" onClick={() => { setError(""); setEdit(blank()); }}><Plus className="h-4 w-4" aria-hidden="true" />New entry</button>
           {prompt && <button type="button" className="btn-secondary" onClick={() => { setError(""); setEdit({ ...blank(), title: prompt.text, prompt: prompt.text }); }}>Write about today's prompt</button>}

@@ -54,3 +54,8 @@ export const errorCode = (e: unknown) => {
   const i = raw.indexOf("|");
   return i > 0 ? raw.slice(0, i) : "";
 };
+
+/** The folder the site is served from ("/" normally, "/ChooseHappiness/" on GitHub Pages). */
+export const BASE = import.meta.env.BASE_URL;
+/** Turns "/brand/x.webp" into a path that works under BASE. */
+export const asset = (p: string) => BASE.replace(/\/$/, "") + p;

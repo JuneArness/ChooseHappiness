@@ -3,6 +3,7 @@ import { Link, NavLink, Outlet, useLocation, useNavigate } from "react-router-do
 import { Bell, ChevronDown, LifeBuoy, Menu, X } from "lucide-react";
 import { useApp } from "../lib/app";
 import { CRISIS } from "../data/crisis";
+import { asset } from "../lib/backend";
 
 export const NAV: [string, string][] = [
   ["/", "Home"], ["/wellness", "Mental Wellness"], ["/perspective", "Perspective"], ["/journey", "The Journey"],
@@ -12,7 +13,7 @@ export const NAV: [string, string][] = [
 export function Logo({ className = "h-11 w-auto" }: { className?: string }) {
   const { site } = useApp();
   const custom = site?.logo_url && /^(https:|data:image\/)/.test(site.logo_url) ? site.logo_url : "";
-  return <img src={custom || "/brand/choosehappiness-logo.webp"} alt="#ChooseHappiness" width={800} height={180} className={className} />;
+  return <img src={custom || asset("/brand/choosehappiness-logo.svg")} alt="#ChooseHappiness" width={1980} height={390} className={className} />;
 }
 
 function AccountMenu() {
@@ -108,7 +109,7 @@ export function Layout() {
           <button type="button" className="grid h-11 w-11 flex-none place-items-center rounded-full hover:bg-sage-50 xl:hidden" onClick={() => setMenu(true)} aria-label="Open menu" aria-haspopup="dialog">
             <Menu className="h-6 w-6" />
           </button>
-          <Link to="/" className="min-w-0 flex-none" aria-label={`${site?.site_name ?? "#ChooseHappiness"} home`}><Logo className="h-8 w-auto min-[400px]:h-9 sm:h-11" /></Link>
+          <Link to="/" className="min-w-0 flex-none" aria-label={`${site?.site_name ?? "#ChooseHappiness"} home`}><Logo className="h-7 w-auto min-[360px]:h-8 min-[400px]:h-9 sm:h-11 lg:h-9 2xl:h-11" /></Link>
           <nav aria-label="Main" className="ml-2 hidden xl:block">
             <ul className="flex items-center gap-0.5 whitespace-nowrap text-[0.92rem] font-semibold">
               {NAV.map(([to, label]) => (
@@ -145,7 +146,7 @@ function Footer() {
     <footer className="mt-20 bg-evergreen print:hidden text-[#DCE6DE]">
       <div className="container-page grid gap-10 py-14 md:grid-cols-[1.3fr_1fr_1fr_1fr]">
         <div>
-          <img src="/brand/choosehappiness-badge.webp" alt="#ChooseHappiness badge" width={480} height={480} loading="lazy" className="h-24 w-24" />
+          <img src={asset("/brand/choosehappiness-logo-white.svg")} alt="#ChooseHappiness" width={1980} height={390} loading="lazy" className="h-14 w-auto" />
           <p className="mt-4 font-serif text-lg italic text-white">{site?.tagline ?? "Begin the journey when the paths are before you."}</p>
           <p className="mt-3 text-sm">A mental wellness education and peer-support community. Not a substitute for professional care, and not an emergency service.</p>
         </div>

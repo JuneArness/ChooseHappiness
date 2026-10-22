@@ -2,6 +2,7 @@
 import DOMPurify from "dompurify";
 import { marked } from "marked";
 import { useMemo } from "react";
+import { asset } from "../lib/backend";
 
 marked.setOptions({ gfm: true, breaks: false });
 
@@ -9,6 +10,7 @@ DOMPurify.addHook("afterSanitizeAttributes", (node) => {
   if (node.tagName === "A") {
     const href = node.getAttribute("href") ?? "";
     if (/^https?:\/\//i.test(href)) { node.setAttribute("target", "_blank"); node.setAttribute("rel", "noopener noreferrer"); }
+    else if (/^\/(?!\/)/.test(href)) node.setAttribute("href", asset(href));  // site links work from a subfolder too
   }
 });
 

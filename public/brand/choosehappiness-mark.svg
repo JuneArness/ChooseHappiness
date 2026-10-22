@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-label="#ChooseHappiness"><title>#ChooseHappiness</title><defs><radialGradient id="msky" cx="50%" cy="38%" r="72%"><stop offset="0" stop-color="#FFEDB8"/><stop offset=".25" stop-color="#FFC768"/><stop offset=".6" stop-color="#F59A4A"/><stop offset="1" stop-color="#E0703A"/></radialGradient>
+<radialGradient id="msun" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#FFFEF6"/><stop offset=".55" stop-color="#FFF4CE"/><stop offset=".8" stop-color="#FFE08A" stop-opacity=".8"/><stop offset="1" stop-color="#FFC95A" stop-opacity="0"/></radialGradient>
+<linearGradient id="mhaze" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4A867"/><stop offset="1" stop-color="#D9774A"/></linearGradient>
+<linearGradient id="mpath" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FCE6C4"/><stop offset="1" stop-color="#FBF3E6"/></linearGradient>
+<clipPath id="mc"><circle cx="500" cy="500" r="466"/></clipPath></defs><circle cx="500" cy="500" r="492" fill="#FBF8F1"/>
+<g clip-path="url(#mc)">
+<rect width="1000" height="1000" fill="url(#msky)"/>
+<circle cx="500" cy="400" r="250" fill="url(#msun)"/>
+<circle cx="500" cy="400" r="118" fill="#FFFEF8"/>
+<path d="M0 575 C90 540 160 560 230 535 C300 512 350 548 420 525 C490 502 540 540 620 520 C700 500 760 538 840 516 C910 498 960 525 1000 512 V1000 H0Z" fill="url(#mhaze)" opacity=".85"/>
+<path d="M0 665 C130 615 260 650 380 625 C520 596 640 640 780 612 C880 592 950 615 1000 605 V1000 H0Z" fill="#8FAE98"/>
+<path d="M0 760 C140 720 280 748 420 722 C560 696 700 742 840 716 C920 702 970 712 1000 708 V1000 H0Z" fill="#6B8F7A"/>
+<path d="M0 870 C160 840 330 870 500 850 C680 828 840 862 1000 845 V1000 H0Z" fill="#46664F"/>
+<path d="M400 1000 C430 930 600 905 545 850 C505 810 515 760 556 705 L566 705 C540 760 545 800 585 845 C660 915 560 950 640 1000Z" fill="url(#mpath)"/>
+</g>
+<circle cx="500" cy="500" r="466" fill="none" stroke="#FBF8F1" stroke-width="12"/></svg>

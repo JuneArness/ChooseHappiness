@@ -114,7 +114,7 @@ function NotConfigured() {
 export default function App() {
   if (!CONFIGURED) return <NotConfigured />;
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, "") || "/"}>
       <AppProvider>
         <ToastProvider>
           <Shell />

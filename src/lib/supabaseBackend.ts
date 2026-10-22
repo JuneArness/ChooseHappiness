@@ -1,7 +1,7 @@
 // Production backend. Every call is checked again by the database (row-level security and the
 // permission checks inside each function), so this file cannot grant more access than the database allows.
 import { createClient } from "@supabase/supabase-js";
-import type { AuthUser, Backend } from "./backend";
+import { asset, type AuthUser, type Backend } from "./backend";
 
 export function createSupabaseBackend(url: string, key: string): Backend {
   const sb = createClient(url, key, { auth: { persistSession: true, autoRefreshToken: true, storageKey: "ch-auth" } });
@@ -28,14 +28,14 @@ export function createSupabaseBackend(url: string, key: string): Backend {
     },
     async signUp(email, password, displayName) {
       const { data, error } = await sb.auth.signUp({
-        email, password, options: { data: { display_name: displayName }, emailRedirectTo: `${window.location.origin}/signin` },
+        email, password, options: { data: { display_name: displayName }, emailRedirectTo: `${window.location.origin}${asset("/signin")}` },
       });
       if (error) throw new Error(error.message);
       return { needsConfirmation: !data.session };
     },
     async signOut() { await sb.auth.signOut(); },
     async sendPasswordReset(email) {
-      const { error } = await sb.auth.resetPasswordForEmail(email, { redirectTo: `${window.location.origin}/reset-password` });
+      const { error } = await sb.auth.resetPasswordForEmail(email, { redirectTo: `${window.location.origin}${asset("/reset-password")}` });
       if (error) throw new Error(error.message);
     },
     async updatePassword(password) {

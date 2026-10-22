@@ -8,11 +8,12 @@ import m1 from "../../supabase/migrations/0001_schema.sql?raw";
 import m2 from "../../supabase/migrations/0002_security.sql?raw";
 import m3 from "../../supabase/migrations/0003_functions.sql?raw";
 import m4 from "../../supabase/migrations/0004_storage.sql?raw";
+import m5 from "../../supabase/migrations/0005_hardening.sql?raw";
 import seed from "../../supabase/seed.sql?raw";
 import type { AuthUser, Backend } from "./backend";
 import { PREVIEW_ACCOUNTS } from "./previewAccounts";
 
-const SQL = [shim, m1, m2, m3, m4, seed];
+const SQL = [shim, m1, m2, m3, m4, m5, seed];
 const hash = (s: string) => { let h = 0; for (let i = 0; i < s.length; i++) h = (Math.imul(31, h) + s.charCodeAt(i)) | 0; return (h >>> 0).toString(36); };
 const DB_NAME = `ch-preview-${hash(SQL.join(""))}`;
 const SESSION_KEY = "ch-preview-session";

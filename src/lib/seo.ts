@@ -1,6 +1,6 @@
 // Per-page title, description, canonical link, Open Graph tags and JSON-LD.
 import { useEffect } from "react";
-import { SITE_URL } from "./backend";
+import { SITE_URL, asset } from "./backend";
 
 interface Seo {
   title: string;
@@ -18,7 +18,7 @@ function meta(attr: "name" | "property", key: string, content: string | null) {
   el.content = content;
 }
 
-export const absoluteUrl = (path: string) => (/^https?:/.test(path) ? path : (SITE_URL || window.location.origin) + path);
+export const absoluteUrl = (path: string) => (/^https?:/.test(path) ? path : (SITE_URL || window.location.origin + asset("")) + path);
 
 export function useSeo({ title, description, path, image, noindex, jsonLd }: Seo) {
   useEffect(() => {

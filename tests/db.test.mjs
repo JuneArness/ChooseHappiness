@@ -59,8 +59,9 @@ test("signed-out visitors read published content but no member data", async () =
   for (const t of ["journal_entries", "threads", "messages", "profiles", "reports"]) {
     assert.equal(await code(as(null, () => rows(`select * from public.${t}`))), "permission denied for table " + t, t);
   }
-  assert.equal(await code(call(null, "list_threads")), "AUTH");
-  assert.equal(await code(call(null, "my_journal")), "AUTH");
+  for (const fn of ["list_threads", "my_journal", "admin_stats", "mod_queue"]) {
+    assert.match(await code(call(null, fn)), /^(AUTH|permission denied)/, fn);
+  }
 });
 
 test("drafts are hidden from the public but previewable by staff", async () => {
@@ -209,6 +210,16 @@ test("suspensions stop posting but not reading or journaling; only admins ban", 
   await db.exec(`update public.profiles set suspended_until = now() - interval '1 minute' where id = '${U.jo}'`);
   assert.equal(await code(call(U.jo, "create_reply", [threadId, "back again"])), "NO_ERROR");
   assert.equal(await one(`select status from public.profiles where id = '${U.jo}'`), "active");
+});
+
+test("conversation details can't be fished out with internal helpers", async () => {
+  const c = await call(U.alex, "start_support_conversation", ["Private", "hello"]);
+  const leaked = await as(U.jo, () => one("select public._conv_card(c) from public.conversations c where c.id = $1", [c.id]).catch(() => null));
+  assert.equal(leaked ?? null, null, "another member sees nothing");
+  const viaFake = await as(U.jo, () => one(`select public._conv_card(row('${c.id}','support','x',null,'open',now(),now())::public.conversations)`));
+  assert.equal(viaFake, null, "even with a hand-made row, no names are returned");
+  assert.equal(await code(as(null, () => one(`select public._author('${U.alex}')`))), "permission denied for function _author");
+  await db.exec(`delete from public.notifications where link = '/messages/${c.id}' or link = '/admin/support'; delete from public.conversations where id = '${c.id}'`);
 });
 
 test("support chat: member and staff only; respects owner availability", async () => {

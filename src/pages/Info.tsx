@@ -5,6 +5,7 @@ import type { Page } from "../lib/types";
 import { Markdown } from "../components/Markdown";
 import { CrisisPanel } from "../components/CrisisPanel";
 import { CRISIS_VERIFIED_ON } from "../data/crisis";
+import { asset } from "../lib/backend";
 import { EmptyState, Notice, PageHeader, Spinner, fmtDate } from "../components/ui";
 
 function usePage(slug: string) {
@@ -28,7 +29,7 @@ export function About() {
         <div className="max-w-3xl">{page && <Markdown text={page.body} />}</div>
         <aside className="space-y-4 lg:sticky lg:top-28 lg:self-start">
           <div className="card p-6 text-center">
-            <img src="/brand/choosehappiness-badge-photo.webp" alt="#ChooseHappiness sunset badge" width={480} height={480} className="mx-auto h-40 w-40" />
+            <img src={asset("/photos/stephen-portrait.webp")} alt="Stephen A. Parks Jr., co-founder of #ChooseHappiness, in a dark suit and blue tie" width={800} height={1000} className="mx-auto aspect-[4/5] w-48 rounded-3xl object-cover" />
             <p className="kicker mt-4">Founded by</p>
             <p className="mt-1 font-serif text-xl text-evergreen">{site?.founders}</p>
           </div>

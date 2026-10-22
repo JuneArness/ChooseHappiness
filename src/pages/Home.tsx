@@ -4,6 +4,7 @@ import { useApp, useRpc } from "../lib/app";
 import { useSeo } from "../lib/seo";
 import type { ArticleCard, Category, Prompt, Topic } from "../lib/types";
 import { CHECKIN } from "../data/checkin";
+import { asset } from "../lib/backend";
 import { Landscape } from "../components/Landscape";
 import { ArticleTile, MoreLink, TopicTile } from "../components/Cards";
 import { CrisisPanel } from "../components/CrisisPanel";
@@ -168,7 +169,10 @@ export default function Home() {
       {/* 9. Philosophy and mission */}
       <section aria-labelledby="ph-h" className="container-page mt-20">
         <div className="grid items-center gap-8 rounded-[2rem] border border-line bg-clay-50/60 p-6 sm:p-10 lg:grid-cols-[auto_1fr]">
-          <img src="/brand/choosehappiness-badge-photo.webp" alt="#ChooseHappiness sunset badge" width={480} height={480} loading="lazy" className="mx-auto h-40 w-40 sm:h-48 sm:w-48" />
+          <figure className="mx-auto w-48 sm:w-56">
+            <img src={asset("/photos/stephen-bonsai.webp")} alt="Stephen A. Parks Jr. tending a small bonsai tree in his office" width={800} height={1000} loading="lazy" className="aspect-[4/5] w-full rounded-3xl object-cover shadow-sm" />
+            <figcaption className="mt-3 text-center text-sm text-muted">Stephen A. Parks Jr., Co-founder</figcaption>
+          </figure>
           <div>
             <p className="kicker mb-3">Our philosophy & mission</p>
             <h2 id="ph-h" className="text-3xl">“Begin the journey to choose happiness when the paths are before you.”</h2>
